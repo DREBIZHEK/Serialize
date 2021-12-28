@@ -1,0 +1,10 @@
+C:\Users\bogda\source\repos\serialize\serialize\obj\Debug\serialize.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\serialize\serialize\obj\Debug\serialize.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\serialize\serialize\bin\Debug\serialize.exe.config
+C:\Users\bogda\source\repos\serialize\serialize\bin\Debug\serialize.exe
+C:\Users\bogda\source\repos\serialize\serialize\bin\Debug\serialize.pdb
+C:\Users\bogda\source\repos\serialize\serialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bogda\source\repos\serialize\serialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bogda\source\repos\serialize\serialize\obj\Debug\serialize.csproj.CopyComplete
+C:\Users\bogda\source\repos\serialize\serialize\obj\Debug\serialize.exe
+C:\Users\bogda\source\repos\serialize\serialize\obj\Debug\serialize.pdb
